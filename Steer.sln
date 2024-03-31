@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Steer.Api", "Steer.Api\Steer.Api.csproj", "{4889B6F5-C64E-455F-AF85-3568D10CC62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steer.Consumer", "Steer.Consumer\Steer.Consumer.csproj", "{6D4C38CE-A1E4-400A-B079-1B8FD57795EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4889B6F5-C64E-455F-AF85-3568D10CC62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4889B6F5-C64E-455F-AF85-3568D10CC62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4889B6F5-C64E-455F-AF85-3568D10CC62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4889B6F5-C64E-455F-AF85-3568D10CC62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4C38CE-A1E4-400A-B079-1B8FD57795EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4C38CE-A1E4-400A-B079-1B8FD57795EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4C38CE-A1E4-400A-B079-1B8FD57795EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4C38CE-A1E4-400A-B079-1B8FD57795EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E2660C-C1D9-4768-90FD-289F36581842}
+	EndGlobalSection
+EndGlobal
